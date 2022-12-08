@@ -1,4 +1,4 @@
-###yolov5 运行中报错 
+**yolov5 运行中报错** 
 
     Traceback (most recent call last):
       File "/home/fengtl/shenzhj/TLXZoo-main/demo/vision/object_detection/yolov5/train.py", line 77, in <module>
@@ -53,7 +53,7 @@
     Process finished with exit code 1
 
 
-##### 这是CSPdarknet.py
+**这是CSPdarknet.py**
 
 ```python
 import os
